@@ -8,7 +8,7 @@ def main ():
     
     volume1 = (concentration_2 * volume_2) / concentration_1
     
-    print (f"\nSo, you need {volume1} mL of the original sample.")
+    print (f"\nSo, you need {volume1} L of the original sample.")
     
 if __name__ == "__main__":
     main()
